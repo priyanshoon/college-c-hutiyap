@@ -24,3 +24,5 @@
 - [Question 15](CHAPTER-2/que-15.c)
 - [Question 16](CHAPTER-2/que-16.c)
 - [Question 17](CHAPTER-2/que-17.c)
+- [Question 18](CHAPTER-2/que-18.c)
+- [Question 19](CHAPTER-2/que-19.c)
