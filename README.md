@@ -29,4 +29,5 @@
 - [Question 20](CHAPTER-2/que-20.c)
 - [Question 21](CHAPTER-2/que-21.c)
 - [Question 22](CHAPTER-2/que-22.c)
-
+## chapter 3
+- [Question 1](CHAPTER-3/que-1.c)
