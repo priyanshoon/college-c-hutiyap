@@ -26,3 +26,7 @@
 - [Question 17](CHAPTER-2/que-17.c)
 - [Question 18](CHAPTER-2/que-18.c)
 - [Question 19](CHAPTER-2/que-19.c)
+- [Question 20](CHAPTER-2/que-20.c)
+- [Question 21](CHAPTER-2/que-21.c)
+- [Question 22](CHAPTER-2/que-22.c)
+
