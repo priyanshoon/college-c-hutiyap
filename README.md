@@ -1,4 +1,6 @@
 # college-c-hutiyap
+Welcome all! I am sudopd and this repo is assignment given by my college teacher
+if you find any error in code or problem in code feel free to create an issue or fix that if you have time.
 ## chapter 1
 - [Question 1](CHAPTER-1/que-1.c)
 - [Question 2](CHAPTER-1/que-2.c)
@@ -31,3 +33,4 @@
 - [Question 22](CHAPTER-2/que-22.c)
 ## chapter 3
 - [Question 1](CHAPTER-3/que-1.c)
+- [Question 2](CHAPTER-3/que-2.c)
