@@ -34,3 +34,4 @@ if you find any error in code or problem in code feel free to create an issue or
 ## chapter 3
 - [Question 1](CHAPTER-3/que-1.c)
 - [Question 2](CHAPTER-3/que-2.c)
+- [Question 3](CHAPTER-3/que-3.c)
