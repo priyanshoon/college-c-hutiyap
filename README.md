@@ -41,3 +41,4 @@ if you find any error in code or problem in code feel free to create an issue or
 - [Question 7](CHAPTER-3/que-7.c)
 - [Question 8](CHAPTER-3/que-8.c)
 - [Question 9](CHAPTER-3/que-9.c)
+- [Question 10](CHAPTER-3/que-10.c)
