@@ -38,4 +38,5 @@ if you find any error in code or problem in code feel free to create an issue or
 - [Question 4](CHAPTER-3/que-4.c)
 - [Question 5](CHAPTER-3/que-5.c)
 - [Question 6](CHAPTER-3/que-6.c)
+- [Question 7](CHAPTER-3/que-7.c)
 
