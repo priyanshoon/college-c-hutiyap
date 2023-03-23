@@ -1,5 +1,5 @@
 # college-c-hutiyap
-Welcome all! I am rootpalladium and this repo is assignment given by school teacher and he  make us write code in paper all the time without making any syntax error.
+Welcome all! I am rootpalladium and this repo is assignment given by school teacher and he  make us write code in paper all the time.
 if you find any error in code or problem in code feel free to create an issue or fix that if you have time.
 ## chapter 1
 - [Question 1](CHAPTER-1/que-1.c)
