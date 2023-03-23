@@ -39,3 +39,4 @@ if you find any error in code or problem in code feel free to create an issue or
 - [Question 5](CHAPTER-3/que-5.c)
 - [Question 6](CHAPTER-3/que-6.c)
 - [Question 7](CHAPTER-3/que-7.c)
+- [Question 8](CHAPTER-3/que-8.c)
