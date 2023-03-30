@@ -7,10 +7,11 @@ int main() {
 	scanf("%d", &n);
 	for (int i = 1; i<n; i++) {
 		if (n%i == 0) {
-			// printf("%d ", i);
+			printf("%d ", i);
 			sum += i;
 		}
 	}
+    printf("Sum of divisor: %d", sum);
 	if (sum == n) {
 		printf("Number is perfect!\n");
 	} else {
