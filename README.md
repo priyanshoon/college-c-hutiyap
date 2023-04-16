@@ -46,3 +46,5 @@ if you find any error in code or problem in code feel free to create an issue or
 ## chapter 4
 - [Question 1](CHAPTER-4/que-1.c)
 - [Question 2](CHAPTER-4/que-2.c)
+- [Question 3](CHAPTER-4/que-3.c)
+- [Question 4](CHAPTER-4/que-4.c)
