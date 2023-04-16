@@ -43,6 +43,7 @@ if you find any error in code or problem in code feel free to create an issue or
 - [Question 9](CHAPTER-3/que-9.c)
 - [Question 10](CHAPTER-3/que-10.c)
 - [Question 11](CHAPTER-3/que-11.c)
+- [Question 12](CHAPTER-3/que-12.c)
 ## chapter 4
 - [Question 1](CHAPTER-4/que-1.c)
 - [Question 2](CHAPTER-4/que-2.c)
