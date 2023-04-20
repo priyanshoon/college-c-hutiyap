@@ -1,5 +1,4 @@
 #include <stdio.h>
-<<<<<<< HEAD
 #include <math.h>
 
 int main() {
@@ -17,19 +16,5 @@ int main() {
 
     printf("the sum = %d\n", sum);
 
-	return 0;
-
-=======
-
-int main() {
-    int n, x;
-    printf("Enter the value of x: ");
-    scanf("%d", &x);
-    printf("Enter the value of n: ");
-    scanf("%d", &n);
-
-
-
     return 0;
->>>>>>> main
 }
