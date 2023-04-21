@@ -50,3 +50,4 @@ if you find any error in code or problem in code feel free to create an issue or
 - [Question 3](CHAPTER-4/que-3.c)
 - [Question 4](CHAPTER-4/que-4.c)
 - [Question 5](CHAPTER-4/que-5.c)
+- [Question 8](CHAPTER-4/que-8.c)
