@@ -53,3 +53,7 @@ if you find any error in code or problem in code feel free to create an issue or
 - [Question 8](CHAPTER-4/que-8.c)
 ## chapter 5
 - [Question 1](CHAPTER-5/que-1.c)
+- [Question 2](CHAPTER-5/que-2.c)
+- [Question 3](CHAPTER-5/que-3.c)
+- [Question 4](CHAPTER-5/que-4.c)
+- [Question 5](CHAPTER-5/que-5.c)
