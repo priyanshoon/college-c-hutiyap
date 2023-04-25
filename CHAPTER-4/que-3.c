@@ -16,7 +16,6 @@ int main() {
     for (i = n; i != 10; i=i/10) {
         d = i % 10;
         p = pow(d, c);
-        printf("%d\n", p);
         ps = ps + p;
         p = 0;
     }
