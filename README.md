@@ -58,5 +58,7 @@ if you find any error in code or problem in code feel free to create an issue or
 - [Question 4](CHAPTER-5/que-4.c)
 - [Question 5](CHAPTER-5/que-5.c)
 - [Question 7](CHAPTER-5/que-7.c)
+- [Question 8](CHAPTER-5/que-8.c)
 - [Question 9](CHAPTER-5/que-9.c)
 - [Question 10](CHAPTER-5/que-10.c)
+- [Question 11](CHAPTER-5/que-11.c)
