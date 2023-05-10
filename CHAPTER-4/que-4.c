@@ -32,4 +32,3 @@ int main() {
     printf("the sum = %f\n", sum);
 
 }
-
