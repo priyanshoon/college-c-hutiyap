@@ -64,3 +64,5 @@ if you find any error in code or problem in code feel free to create an issue or
 - [Question 9](CHAPTER-5/que-9.c)
 - [Question 10](CHAPTER-5/que-10.c)
 - [Question 11](CHAPTER-5/que-11.c)
+## chapter 6
+- [Question 1](CHAPTER-6/que-1.c)
