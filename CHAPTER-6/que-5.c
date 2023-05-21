@@ -1,16 +1,17 @@
 #include<stdio.h>
 
-void arr_frequency(int arr[], int n) {
-    int i, j, count = 0;
+int duplicate_arr(int arr[], int n) {
+    int i, j, count = 0, count_fr = 0;
     for (i = 0; i < n; i++) {
         for (j = 0; j < n; j++) {
             if (arr[i] == arr[j]) {
                 count++;
             }
         }
-        printf("%d occurs %d times\n", arr[i], count);
+        count_fr = count;
         count = 0;
     }
+    return count_fr;
 }
 
 int main() {
@@ -26,7 +27,8 @@ int main() {
         scanf("%d", &arr[i]);
     }
 
-    arr_frequency(arr, size);
+    int duplicateArr = duplicate_arr(arr, size);
+    printf("Total number of duplicate element found in arr : %d\n", duplicateArr);
 
     return 0;
 }
